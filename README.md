@@ -1,3 +1,9 @@
+<h1>Esta app sera de recordatorios/alarmas pasivas para mobile, es decir, te recordarán de algo, mediante vibración o sonido y no tendrás que desactivarla manualmente</h1>
+
+<h3>Aún sin comenzar</h3>
+
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
